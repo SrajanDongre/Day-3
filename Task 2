@@ -1,0 +1,11 @@
+Create your own resume data in JSON format
+Ans:-
+var resume{
+Name: "Srajan Dongre",
+Age: 18,
+Marital Status: "Unmarried",
+Address: "Sanchar Colony",
+City: "Chhindwara",
+State: "Madhya Pradesh",
+12th percentage: 86%,
+};
