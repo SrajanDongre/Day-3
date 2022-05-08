@@ -1,0 +1,13 @@
+Read about the difference between window, screen and document in javascript
+
+Windows is a graphical operating system developed by Microsoft. It allows users to view and store 
+files, run the software, play games, watch videos, and provides a way to connect to the internet. 
+It was released for both home computing and professional works.
+
+The JavaScript screen object holds information of browser screen. It can be used to display screen
+width, height, colorDepth, pixelDepth etc. The navigator object is the window property, so it can
+be accessed by: window.
+
+JavaScript Document object is an object that provides access to all HTML elements of a document.
+When an HTML document is loaded into a browser window, then it becomes a document object. The document
+object stores the elements of an HTML document, such as HTML, HEAD, BODY, and other HTML tags as objects.
